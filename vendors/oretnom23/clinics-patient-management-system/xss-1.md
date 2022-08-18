@@ -1,6 +1,6 @@
 # Clinic's Patient Management System v1.0 by oretnom23 has xss vulnerability
 
-Author：hangZhaoYue
+Author：ZhangZhaoYue
 
 The password for the backend login account is: admin/admin123
 
